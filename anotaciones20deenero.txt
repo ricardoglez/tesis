@@ -1,7 +1,3 @@
-Lunes sin rocio de 12 a 5en la casa de Belén
-Lunes con rocio de 12 a 4 en casa de Dave
-
-
 Indagar sobre transitio y los beneficios de este tipo de festivales.
 
 Expectativas del taller que impartio.
@@ -30,18 +26,11 @@ Aplicar el ejercicio de preguntar y cuestionar sobre que caracteristicas de la t
 
 ¿Desarrollas algún tipo de evaluación en las obras interactivas que generas?
 
-¿Que canales de difusión han beneficiado en mayor medida tu trabajo?
+-¿Que canales de difusión han beneficiado en mayor medida tu trabajo?
  
- 3 Ejes
+///////////////////////////4no2///////////////////////////////////////////////////////
  
- 1 Presentación
- 
- 2 Taller
- 
- 3 Arte Electrónico
- 
- 4 Proceso Creativo
-
+Estructura de la Entevista 
  
 Presentación
  
@@ -51,5 +40,32 @@ Presentación
 
 ¿En tu experiencia como tallerista como perciben y desarrollan tus alumnos el trabajo colaborativo?
 
-¿ ?
+¿Crees que las plataformas como Transitio_MX son eficientes para dar a conocer los trabajos en el arte electrónico? ¿Qué consideras que haga falta?
+
+¿Que caracteristícas crees que debe cumplir una pieza para ser considerada arte electrónico?
+
+¿Qué caracteristicas conceptuales, técnicas, metodológicas se pueden identificar en tu trabajo?
+
+¿Porque decidiste utilizar arte electrónico en tus proyectos?
+
+¿Cuál crees que sea la aportación del arte electrónico?
+
+¿Qué aportaciones desde el punto de vista estético, social o técnico tiene el arte electrónico?
+
+¿Que ventajas crees que pueda tener tratar un tema social a travez del arte electrónico?
+
+¿Cuál es el proceso que sigues en la creación de nuevas piezas de arte electrónico?
+
+¿Con que frecuencia trabajas de manera colaborativa?
+
+¿Cuáles son las diferencias entre los procesos de creación individuales y colectivos?
+
+¿Con que otras disciplinas has trabajdo?
+
+¿Que dificultades implican el trabajo colaborativo?
+
+¿Haces algun tipo de evaluación con respecto tus obras interactivas?
+Si es así cuál es tu percepción al respecto.
+
+*¿Conoces o perteneces a alguna red que se interese en el trabajo colaborativo?
 
